@@ -1,6 +1,6 @@
-/* nebraskajs - v0.1.6 - 2016-06-12
-* http://github.com/nebraskajs/nebraskajs.com/
-* Copyright (c) 2016 Zach Leatherman; MIT License */
+/* reactJSDenver - v0.1.0 - 2016-06-23
+* https://github.com/willklein/reactjsdenver
+* Copyright (c) 2016 Will Klein; MIT License */
 
 "use strict";
 importScripts('js/cache-polyfill.js');
