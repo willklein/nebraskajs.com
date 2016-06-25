@@ -1,9 +1,9 @@
 {
-  "name": "nebraskajs",
+  "name": "reactjs-denver",
   "version": "0.1.6",
-  "homepage": "http://github.com/nebraskajs/nebraskajs.com/",
+  "homepage": "https://github.com/willklein/reactjsdenver",
   "author": {
-    "name": "Zach Leatherman"
+    "name": "Will Klein and Chris Downard"
   },
   "private": true,
   "dependencies": {
